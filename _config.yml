@@ -1,8 +1,7 @@
 name: balkans
 favicon: null
-layout_spectrum: 0.45791
-typography_spectrum: 0.31903
-title: A trip to the Balkans
+layout_spectrum: 0.48241359065286815
+typography_spectrum: 0.8313464219681919
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#c3ddf4'
-    - '#1276ce'
-    - '#000800'
-    - '#647a6d'
-    - '#de8664'
-  brandStrength: 0.25
-  lightness: 1
-  saturation: 0.625
-  rhythmicContrast: 0
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.27593443915247917
+  lightness: 0.15074469964019954
+  saturation: 0.9465566242579371
+  rhythmicContrast: 0.31023933878168464
 purpose: []
