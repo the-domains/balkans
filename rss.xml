@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[A trip to the Balkans]]></title>
         <description><![CDATA[A trip to the Balkans]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/balkans/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 17:59:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 17:59:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/balkans/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas convallis tincidunt fermentum. Nullam vel imperdiet dolor. Praesent ullamcorper diam ac est condimentum sagittis. Etiam fringilla cursus sem, eget mollis quam interdum non. Curabitur auctor nec lectus quis tincidunt. Ut dignissim orci sit amet pretium faucibus. Donec maximus vestibulum mauris, sed aliquet ex efficitur id. Pellentesque pharetra, odio non lobortis semper, orci nulla dapibus mauris, at tincidunt massa odio eu sapien.</p>]]></description>
+            <link>https://thegrid.ai/balkans/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-mae/index.html</link>
+            <guid isPermaLink="false">63d82951-e54d-4b58-a9bf-cb3aaf65be9d</guid>
+            <pubDate>Wed, 17 Aug 2016 17:59:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbd46561-0526-4c89-b50c-43b9a335a2d0.jpg">]]></description>
-            <link>undefinedcant-wait-to-see-views-like-this/index.html</link>
+            <link>https://thegrid.ai/balkans/cant-wait-to-see-views-like-this/index.html</link>
             <guid isPermaLink="false">e1f44ee4-1bd5-422f-b8db-1b5225b7c849</guid>
             <pubDate>Wed, 17 Aug 2016 17:58:19 GMT</pubDate>
         </item>
