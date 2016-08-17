@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A trip to the Balkans]]></title>
+        <description><![CDATA[A trip to the Balkans]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 17:59:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbd46561-0526-4c89-b50c-43b9a335a2d0.jpg">]]></description>
+            <link>undefinedcant-wait-to-see-views-like-this/index.html</link>
+            <guid isPermaLink="false">e1f44ee4-1bd5-422f-b8db-1b5225b7c849</guid>
+            <pubDate>Wed, 17 Aug 2016 17:58:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
